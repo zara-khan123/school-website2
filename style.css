@@ -1,6 +1,17 @@
-p
+
+.travel_mainDiv
 {
-    font-size: 25px;
-    color: azure;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid lightgrey;
 }
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+    font-size: 20px;
+    color:blue ;
+    font-family: Verdana;
+    margin: 20px;
+}
+
